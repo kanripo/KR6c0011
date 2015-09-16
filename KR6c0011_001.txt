@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:43:48.901486
+#+DATE: 2015-08-30 19:43:49.724873
 #+TITLE: 大明度經
 #+PROPERTY: CBETA_ID T08n0225
 #+PROPERTY: ID KR6c0011
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 225
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6c0011_T_000-0478b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0011_T_001-0478b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.225[Nos.220(4or5),224,226-228,cf.229]¶
-
- 《大明度經》卷第一¶
+No. 225 [Nos. 220(4 or 5), 224, 226-228, cf. 229]¶
+《大明度經》¶
 ¶
 南吳月支國居士支謙譯¶
 
-1行品
-:PROPERTIES:
-:head: 行品第一
-:END:
-¶
+行品第一¶
 
 聞如是：
 
