@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:43:51.774520
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:22
 #+TITLE: 大明度經
 #+PROPERTY: CBETA_ID T08n0225
 #+PROPERTY: ID KR6c0011
@@ -18,7 +18,7 @@ No. 225 [Nos. 220(4 or 5), 224, 226-228, cf. 229]¶
 ¶
 南吳月支國居士支謙譯¶
 
-行品第一¶
+* 行品第一¶
 
 聞如是：
 
